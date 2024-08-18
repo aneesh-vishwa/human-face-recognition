@@ -1,1 +1,1 @@
-
+you can drop images here for the model to predict it a male or female.
